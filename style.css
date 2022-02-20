@@ -9,8 +9,5 @@ section {
   padding-top: 5rem;
 }
 h1 {
-  color: lightsalmon;
-}
-.lead {
-  color: coral;
+  color: red;
 }
